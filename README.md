@@ -23,6 +23,7 @@ We need to add 4 keys and values to the x-www-form-encoded type under Body into 
   endDate: "2018-02-02",
   minCount: 2700,
   maxCount: 3000
+```
 
 And we can see the results.
 I deployed the project to Heroku . For send the request from Postman to Heroku we need to add 4 keys and values to the x-www-form-encoded type under Body into the Postman's
